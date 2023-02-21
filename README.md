@@ -1,6 +1,6 @@
 ### Welcome to the home of shit software!
 
-## Probably doing Math right now
+#### Probably doing Math right now
 
 <!--
 **xakep0204/xakep0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
