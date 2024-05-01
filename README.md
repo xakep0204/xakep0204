@@ -1,4 +1,4 @@
-### Welcome to the home of shit software!
+### Welcome to the home of sh*t software!
 
 #### Probably doing Math right now
 
