@@ -1,4 +1,4 @@
-### Welcome to the home of sh*t software!
+### Welcome to the home of unsafe software!
 
 #### Probably doing Math right now
 
